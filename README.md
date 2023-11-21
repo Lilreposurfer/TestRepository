@@ -1,7 +1,7 @@
 # TestRepository
 This is a test for GitHub
 
-##smaller heading
+## smaller heading
 
 - item1
 - item2
